@@ -1,2 +1,2 @@
-# Find-Three-Largest-Numbers
+# Find Three-Largest-Numbers
 Implemented in Java
